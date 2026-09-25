@@ -1,0 +1,13 @@
+[project]
+name = "mask-editor-shift-color-picker"
+version = "1.0.0"
+description = "Shift-click color picking for ComfyUI's mask editor Paint Pen"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/envy-ai/ComfyUI-Mask-Editor-Shift-Color-Picker"
+
+[tool.comfy]
+PublisherId = "envy-ai"
+DisplayName = "Mask Editor Shift Color Picker"
