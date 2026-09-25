@@ -2,6 +2,7 @@
 name = "mask-editor-shift-color-picker"
 version = "1.0.0"
 description = "Shift-click color picking for ComfyUI's mask editor Paint Pen"
+license = { file = "LICENSE" }
 requires-python = ">=3.10"
 dependencies = []
 
